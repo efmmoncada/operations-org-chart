@@ -42,7 +42,7 @@ export default function EmployeeCard({
             </Link>
           </p>
           <p className={`${assistant === "" ? "invisible" : ""}`}>
-            Assistant: {assistant}
+            Support: {assistant}
           </p>
         </div>
       </CardHeader>

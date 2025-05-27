@@ -200,12 +200,12 @@ export const employees: EmployeeInfo[] = [
     ],
   },
   {
-    headshotURL: "/roedeln.jpg",
-    name: "Nate Roedel",
+    headshotURL: "/ellersiw.jpg",
+    name: "Whitney Ellersick",
     title: "Executive Director of Nutrition Services",
     ext: 41461,
-    email: "roedeln@hsd.k12.or.us",
-    assistant: "",
+    email: "ellersiw@hsd.k12.or.us",
+    assistant: "Pamela Moreland",
     duties: [],
   },
   {
