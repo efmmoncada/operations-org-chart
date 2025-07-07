@@ -39,7 +39,7 @@ export const employees: EmployeeInfo[] = [
   {
     headshotURL: "/moncadae.jpg",
     name: "Emmanuel Moncada",
-    title: "Technology Integration",
+    title: "System Analyst 1",
     ext: 60424,
     email: "moncadae@hsd.k12.or.us",
     assistant: "",
@@ -147,7 +147,7 @@ export const employees: EmployeeInfo[] = [
   {
     headshotURL: "/salmeronh.png",
     name: "Hugo Salmeron",
-    title: "Specialist - Public Safety Systems",
+    title: "Manager - Safety Systems and Physical Security",
     ext: 41344,
     email: "salmeroh@hsd.k12.or.us",
     assistant: "",
